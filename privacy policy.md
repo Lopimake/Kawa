@@ -21,3 +21,11 @@ yes,https://discord.gg/kPdKZDaUZe
 Is Kawa dangerous?
 
 No Kawa will have almost no permissions on your servers
+
+How do you use the data?
+
+Kawa does not use your data, we just keep the name of the server where you added the bot
+
+Do you share your data with any other people?
+
+no, your data will always be private

@@ -9,3 +9,15 @@ your information will always remain private
 Data Delete request!
 
 To request deletion of your data, please add me on discord: Lopimake# 1201
+
+Does Kawa listen to us vocally?
+
+No kawa don't listen to you
+
+Does Kawa have a support server for help?
+
+yes,https://discord.gg/kPdKZDaUZe
+
+Is Kawa dangerous?
+
+No Kawa will have almost no permissions on your servers

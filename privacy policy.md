@@ -1,4 +1,5 @@
 What do we collect?
+
 Kawa collects no information, it only collects the name of the servers where the bot is added
 
 Information uses

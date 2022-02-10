@@ -29,3 +29,6 @@ Master giveaways ONLY collects your data for giveaway's purposes; for example if
 Do you share your data with any other people?
 
 no, your data will always be private
+
+
+- by using Master giveaway's you authorize that the data mentioned above be stored indefinitely

@@ -20,7 +20,7 @@ yes,https://discord.gg/cgkGJ9FzzD
 
 Is Master Giveaway's dangerous?
 
-No Kawa will have almost no permissions on your servers
+No Master giveaway's will have almost no permissions on your servers
 
 How do you use the data?
 
